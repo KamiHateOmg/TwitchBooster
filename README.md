@@ -1,8 +1,4 @@
 <h1 align="center">
-    <a href="https://amplication.com/#gh-light-mode-only">
-    <img src="https://image.noelshack.com/fichiers/2023/24/1/1686591673-175-1757647-m9pjwl1x1n3nvzf8x8rc-twitch-logo-removebg-preview.png">
-    </a>
-    <a href="https://amplication.com/#gh-dark-mode-only">
     <img src="https://image.noelshack.com/fichiers/2023/24/1/1686591673-175-1757647-m9pjwl1x1n3nvzf8x8rc-twitch-logo-removebg-preview.png">
     </a>
 </h1>
@@ -24,7 +20,7 @@
 ## Introduction
 
 `TwitchBooster` is a virus made by the 18-25. 18-25 is a category to make the people between 18 and 25 YO talk to each other from the french forum [jvc.com](https://www.jeuxvideo.com).
-The mods of this forum were not payed so they stopped to mod this website. A group on this category got created, some 
+The mods of this forum were not payed so they stopped to mod this website. A group on this category got created, the people who created it are in the protagonists section.
 
 <details>
 <summary>
@@ -40,15 +36,20 @@ Protagonists
 ### Sirop
    Founder of the second Twitch Game discord in July 2016. The Damben server flops and empties of members who go to the second server.
 
-Jewstice: Participates in the founding of the new Twitch Game. He becomes one of the main protagonists of the period, laying the foundations for the Twitch Booster virus, which he codes clumsily and rudimentarily. He led numerous raids and started the War of Discords in March 2017.
+### Jewstice
+   Participates in the founding of the new Twitch Game. He becomes one of the main protagonists of the period, laying the foundations for the Twitch Booster virus, which he codes clumsily and rudimentarily. He led numerous raids and started the War of Discords in March 2017.
 
-Sneus: Founder of Risiraid in March 2017, a new raid server. He greatly improves the virus with Gin and makes it presentable which increases the power of raids tenfold. He created a new SneusRaid server following a disagreement with Gin shortly after an IRL with him and Pike.
+### Sneus
+   Founder of Risiraid in March 2017, a new raid server. He greatly improves the virus with Gin and makes it presentable which increases the power of raids tenfold. He created a new SneusRaid server following a disagreement with Gin shortly after an IRL with him and Pike.
 
-Gin / Sejo: Risiraid Admin
+### Gin / Sejo
+   Risiraid Admin
 
-Pike: Risiraid admin
+### Pike
+   Risiraid admin
 
-Fripinside: Leaves Risiraid and creates his own server ExoodArmy more open to newfags in order to spread the word about the virus. Particularly young and immature.
+### Fripinside
+   Leaves Risiraid and creates his own server ExoodArmy more open to newfags in order to spread the word about the virus. Particularly young and immature.
 </details>
 
 
@@ -73,6 +74,16 @@ Pre-requisites
 
 <details>
 <summary>
+How to compress it as a .exe 
+</summary> <br />
+<h1 align="center">
+    <img src="https://image.noelshack.com/fichiers/2023/24/1/1686591673-175-1757647-m9pjwl1x1n3nvzf8x8rc-twitch-logo-removebg-preview.png">
+    
+     1. Select all your virus files and compress it with winrar
+    </a>
+<details>
+
+<summary>
 Scripts
 </summary> <br />
 
@@ -92,3 +103,7 @@ git clone https://github.com/KamiHateOmg/TwitchBooster.git && cd TwitchBooster
 ```shell
 python main.py
 ```
+</details>
+    
+## Disclaimer
+    I am clearly not responsible of ANY actions you do with my codes or other. This virus is created for educational purposes only.
