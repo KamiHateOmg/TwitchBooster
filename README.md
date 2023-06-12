@@ -98,7 +98,7 @@ python main.py
 
 
 ## EXE Compression
-<img src="https://i.imgur.com/hTxBEof.gif" style="height: 50px; width:50px;"/>
+<img src="https://i.imgur.com/hTxBEof.gif">
 
 
 ## Disclaimer
