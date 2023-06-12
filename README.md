@@ -70,19 +70,10 @@ Pre-requisites
 - Python 3.9 or above
 - Windows OS
 - Git
+- WinRar
 </details>
 
 <details>
-<summary>
-How to compress it as a .exe 
-</summary> <br />
-<h1 align="center">
-    <img src="https://image.noelshack.com/fichiers/2023/24/1/1686591673-175-1757647-m9pjwl1x1n3nvzf8x8rc-twitch-logo-removebg-preview.png">
-    
-     1. Select all your virus files and compress it with winrar
-    </a>
-<details>
-
 <summary>
 Scripts
 </summary> <br />
@@ -104,6 +95,11 @@ git clone https://github.com/KamiHateOmg/TwitchBooster.git && cd TwitchBooster
 python main.py
 ```
 </details>
-    
+
+
+## EXE Compression
+<img src="https://i.imgur.com/hTxBEof.gif" style="height: 50px; width:50px;"/>
+
+
 ## Disclaimer
     I am clearly not responsible of ANY actions you do with my codes or other. This virus is created for educational purposes only.
