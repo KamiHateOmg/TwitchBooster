@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <i align="center">The re-creation of TwitchBooster...</i>
+  <i align="center">The re-creation of TwitchBooster in open-source !</i>
 </p>
 <h4 align="center">
   <br>
@@ -21,6 +21,7 @@
 
 `TwitchBooster` is a virus made by the 18-25. 18-25 is a category to make the people between 18 and 25 YO talk to each other from the french forum [jvc.com](https://www.jeuxvideo.com).
 The mods of this forum were not payed so they stopped to mod this website. A group on this category got created, the people who created it are in the protagonists section.
+This virus was made to troll the little streamer in their streams (mostly with their webcam activated), to make them fear, or stress just for fun...
 
 <details>
 <summary>
@@ -52,7 +53,15 @@ Protagonists
    Leaves Risiraid and creates his own server ExoodArmy more open to newfags in order to spread the word about the virus. Particularly young and immature.
 </details>
 
-
+<details>
+<summary>
+  Tutorials
+</summary> <br />
+    
+> **Note**
+> : Still in development here !
+    
+</details>
 
 
 ## Development
@@ -96,9 +105,17 @@ python main.py
 ```
 </details>
 
+<details>
+<summary>
+.EXE Compression
+</summary> <br />
 
-## EXE Compression
-<img src="https://i.imgur.com/hTxBEof.gif">
+#### 1. WinRar
+<img src="https://camo.githubusercontent.com/1ce73673b0951873e78e5b44078fe4348fc9bb2fa82817b6de71c90ce6e6ef79/68747470733a2f2f692e696d6775722e636f6d2f68547842456f662e676966">
+
+#### 2. Compression
+<img src="https://camo.githubusercontent.com/e3ab91a8d3a564e8adef9a2a004db48c16b335f821e72c80346ed8d0e6d76a24/68747470733a2f2f692e696d6775722e636f6d2f5a5a544466706c2e676966">
+</details>
 
 
 ## Disclaimer
