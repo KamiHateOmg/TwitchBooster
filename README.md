@@ -141,5 +141,8 @@ python main.py
 </details>
 
 
+#### Thank y'all, and don't forget, made by Kami ! ツ
+
+
 ## Disclaimer
     I am clearly not responsible of ANY actions you do with my codes or other. This virus is created for educational purposes only.
