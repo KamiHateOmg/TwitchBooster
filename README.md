@@ -55,6 +55,29 @@ Protagonists
 
 <details>
 <summary>
+Features
+</summary> <br />
+    
+> 1. Spam disk open and close
+    
+> 2. Disable task Manager
+    
+> 3. Spam enter
+    
+> 4. Hide taskbar
+    
+> 5. melter.exe (not a virus, just do alt+f4 and your screen will *unmelt*)
+    
+> 6. Spam errors
+    
+> 7. Voice Message
+    
+> 8. Has a GUI (it does nothing, it's just to mislead the person : 
+    <img src=https://i.imgur.com/mmwfCwY.png>
+</details>
+
+<details>
+<summary>
   Tutorials
 </summary> <br />
     
