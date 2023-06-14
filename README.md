@@ -21,7 +21,7 @@
 
 `TwitchBooster` is a virus made by the 18-25. 18-25 is a category to make the people between 18 and 25 YO talk to each other from the french forum [jvc.com](https://www.jeuxvideo.com).
 The mods of this forum were not payed so they stopped to mod this website. A group on this category got created, the people who created it are in the protagonists section.
-This virus was made to troll the little streamer in their streams (mostly with their webcam activated), to make them fear, or stress just for fun...
+This virus was made to troll the little streamer in their streams (mostly with their webcam activated), to make them fear, or stress just for *fun*...
 
 <details>
 <summary>
