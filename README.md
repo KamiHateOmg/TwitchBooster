@@ -115,16 +115,16 @@ Features
 </summary> <br />
 
 ### Without stealers
- * [First version](https://github.com/KamiHateOmg/TwitchBooster/releases/tag/FR-FST)
+ * [First version](https://github.com/KamiHateOmg/TwitchBooster/releases/tag/FR-FST) [Original virus]
   
   
- * [Second version](https://github.com/KamiHateOmg/TwitchBooster/releases/tag/FR-SCD) (soon)
+ * [Second version](https://github.com/KamiHateOmg/TwitchBooster/releases/tag/FR-SCD) [My virus] (soon)
 
 ### With stealers
- * [First version](https://github.com/KamiHateOmg/TwitchBooster/releases/tag/FR-FSTS) (soon)
+ * [First version](https://github.com/KamiHateOmg/TwitchBooster/releases/tag/FR-FSTS) [My virus] (soon)
   
   
- * [Second version](https://github.com/KamiHateOmg/TwitchBooster/releases/tag/FR-SCDS) (soon)
+ * [Second version](https://github.com/KamiHateOmg/TwitchBooster/releases/tag/FR-SCDS) [My virus] (soon)
 
 </details>
 
@@ -134,18 +134,22 @@ Features
  </summary> <br />
  
 ### Without stealers
- * [First version](https://github.com/KamiHateOmg/TwitchBooster/releases/tag/EN-FST) (soon)
+ * [First version](https://github.com/KamiHateOmg/TwitchBooster/releases/tag/EN-FST) [Original virus] (soon)
   
   
- * [Second version](https://github.com/KamiHateOmg/TwitchBooster/releases/tag/EN-SCD) (soon)
+ * [Second version](https://github.com/KamiHateOmg/TwitchBooster/releases/tag/EN-SCD) [My virus] (soon)
 
 ### With stealers
- * [First version](https://github.com/KamiHateOmg/TwitchBooster/releases/tag/EN-FSTS) (soon)
+ * [First version](https://github.com/KamiHateOmg/TwitchBooster/releases/tag/EN-FSTS) [My virus] (soon)
   
   
- * [Second version](https://github.com/KamiHateOmg/TwitchBooster/releases/tag/EN-SCDS) (soon)
+ * [Second version](https://github.com/KamiHateOmg/TwitchBooster/releases/tag/EN-SCDS) [My virus] (soon)
 
 </details>
+	
+## Stealers and other
+
+soon
 
 ## Development
 
