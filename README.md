@@ -104,7 +104,46 @@ Features
 > : Still in development here !
     
 </details>
+	
+## Virus
 
+<details>
+<summary>
+   French
+</summary> <br />
+
+### Without stealers
+ * [First version](https://github.com/KamiHateOmg/TwitchBooster/releases/tag/FR-FST)
+  
+  
+ * [Second version](https://github.com/KamiHateOmg/TwitchBooster/releases/tag/FR-SCD)
+
+### With stealers
+ * [First version](https://github.com/KamiHateOmg/TwitchBooster/releases/tag/FR-FSTS)
+  
+  
+ * [Second version](https://github.com/KamiHateOmg/TwitchBooster/releases/tag/FR-SCDS)
+
+</details>
+
+<details>
+<summary>
+   English
+ </summary> <br />
+ 
+### Without stealers
+ * [First version](https://github.com/KamiHateOmg/TwitchBooster/releases/tag/EN-FST)
+  
+  
+ * [Second version](https://github.com/KamiHateOmg/TwitchBooster/releases/tag/EN-SCD)
+
+### With stealers
+ * [First version](https://github.com/KamiHateOmg/TwitchBooster/releases/tag/EN-FSTS)
+  
+  
+ * [Second version](https://github.com/KamiHateOmg/TwitchBooster/releases/tag/EN-SCDS)
+
+</details>
 
 ## Development
 
