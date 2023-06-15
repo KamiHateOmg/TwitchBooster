@@ -87,6 +87,8 @@ Features
 	
 > 12. Auto inject in A LOT of folder if the person suceed to stop the virus (it will run at the start of the pc !)
 
+> 13. Steal the passwords, the information and a lot more ! (really soon)
+
 > **Note**
 > : I am adding more don't worry !
 	
