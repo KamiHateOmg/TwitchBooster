@@ -18,6 +18,7 @@
     <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white"
   </a>
 </h4>
+<hr>
 
 
 ## Introduction
@@ -150,11 +151,13 @@ python main.py
 
 ## Misc
 	
-## License
+### License
 
 [![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
-<hr>
-<hr>
+
+### Contact
+
+You can reach me on [Discord !Kami#3966](https://discord.gg/XGS5ajTXbJ)
 
 
 #### Thank y'all, and don't forget, made by Kami ! ツ
