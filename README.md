@@ -13,6 +13,9 @@
   </a>
   <a href="https://www.youtube.com/@KamiHate.">
     <img src="https://img.shields.io/badge/youtube-d95652.svg?style=flat-square&" alt="youtube">
+    </a>
+  <a href=https://www.tiktok.com/@i.am.kamihate>
+    <img src=https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white
   </a>
 </h4>
 
