@@ -75,7 +75,7 @@ Features
     
 > 7. Voice Message
     
-> 8. Has a GUI (it does nothing, it's just to mislead the person : 
+> 8. Has a GUI (it does nothing, it's just to mislead the person) : 
     <img src=https://i.imgur.com/mmwfCwY.png>
     
 > **Note**
@@ -148,9 +148,17 @@ python main.py
 <img src="https://camo.githubusercontent.com/e3ab91a8d3a564e8adef9a2a004db48c16b335f821e72c80346ed8d0e6d76a24/68747470733a2f2f692e696d6775722e636f6d2f5a5a544466706c2e676966">
 </details>
 
+## Misc
+	
+## License
+
+[![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE.md)
+<hr>
+<hr>
+
 
 #### Thank y'all, and don't forget, made by Kami ! ツ
 
 
-## Disclaimer
+### Disclaimer
     I am clearly not responsible of ANY actions you do with my codes or other. This virus is created for educational purposes only.
