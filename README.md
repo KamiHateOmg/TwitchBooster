@@ -9,13 +9,13 @@
 <h4 align="center">
   <br>
   <a href="https://discord.gg/XGS5ajTXbJ">
-    <img src="https://img.shields.io/badge/discord-7289da.svg?style=flat-square" alt="discord">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
   </a>
   <a href="https://www.youtube.com/@KamiHate.">
-    <img src="https://img.shields.io/badge/youtube-d95652.svg?style=flat-square&" alt="youtube">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
     </a>
   <a href=https://www.tiktok.com/@i.am.kamihate>
-    <img src=https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white
+    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white"
   </a>
 </h4>
 
