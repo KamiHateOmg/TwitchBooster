@@ -1,0 +1,1 @@
+MsgBox "alors c'est comment d'etre un fils de pute ?", vbOKOnly + vbCritical, "FUCKED BY KAMI" 
