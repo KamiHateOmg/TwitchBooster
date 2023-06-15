@@ -78,6 +78,8 @@ Features
     
 > 8. Has a GUI (it does nothing, it's just to mislead the person) : 
     <img src=https://i.imgur.com/mmwfCwY.png>
+
+> 9. Spam the leds on the keyboards (The caps lock, the scroll lock and the nums lock.)
     
 > **Note**
 > : I am adding more don't worry !
