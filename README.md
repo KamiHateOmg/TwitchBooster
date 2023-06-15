@@ -118,10 +118,10 @@ Pre-requisites
 
 ###
 
-- Python 3.9 or above
+- [Python 3.9 or above](https://www.python.org/downloads)
 - Windows OS
-- Git
-- WinRar
+- [Git](https://git-scm.com/download/win)
+- [WinRar](https://www.win-rar.com/start.html?&L=10)
 </details>
 
 <details>
