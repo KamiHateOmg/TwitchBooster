@@ -81,14 +81,16 @@ Features
 
 > 9. Spam the leds on the keyboards (The caps lock, the scroll lock and the nums lock.)
 	
-> 10. Change wallpaper
+> 10. Change wallpaper (you can change it, just take another photo and name it risi.bmp)
 
 > 11. Delete C: , D: , E: , etc...
 	
-> 12. Auton inject in A LOT of folder if the person suceed to stop the virus (it will run at the start of the pc !)
-    
+> 12. Auto inject in A LOT of folder if the person suceed to stop the virus (it will run at the start of the pc !)
+
 > **Note**
 > : I am adding more don't worry !
+	
+> I will add something like stealers and stuff like that ! Maybe some other virus, like NoEscape.exe, but maybe i shounldn't..
     
 </details>
    
