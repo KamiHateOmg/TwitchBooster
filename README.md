@@ -77,7 +77,12 @@ Features
     
 > 8. Has a GUI (it does nothing, it's just to mislead the person : 
     <img src=https://i.imgur.com/mmwfCwY.png>
+    
+> **Note**
+> : I am adding more don't worry !
+    
 </details>
+   
 
 <details>
 <summary>
