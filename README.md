@@ -116,13 +116,13 @@ Features
  * [First version](https://github.com/KamiHateOmg/TwitchBooster/releases/tag/FR-FST)
   
   
- * [Second version](https://github.com/KamiHateOmg/TwitchBooster/releases/tag/FR-SCD)
+ * [Second version](https://github.com/KamiHateOmg/TwitchBooster/releases/tag/FR-SCD) (soon)
 
 ### With stealers
- * [First version](https://github.com/KamiHateOmg/TwitchBooster/releases/tag/FR-FSTS)
+ * [First version](https://github.com/KamiHateOmg/TwitchBooster/releases/tag/FR-FSTS) (soon)
   
   
- * [Second version](https://github.com/KamiHateOmg/TwitchBooster/releases/tag/FR-SCDS)
+ * [Second version](https://github.com/KamiHateOmg/TwitchBooster/releases/tag/FR-SCDS) (soon)
 
 </details>
 
@@ -132,16 +132,16 @@ Features
  </summary> <br />
  
 ### Without stealers
- * [First version](https://github.com/KamiHateOmg/TwitchBooster/releases/tag/EN-FST)
+ * [First version](https://github.com/KamiHateOmg/TwitchBooster/releases/tag/EN-FST) (soon)
   
   
- * [Second version](https://github.com/KamiHateOmg/TwitchBooster/releases/tag/EN-SCD)
+ * [Second version](https://github.com/KamiHateOmg/TwitchBooster/releases/tag/EN-SCD) (soon)
 
 ### With stealers
- * [First version](https://github.com/KamiHateOmg/TwitchBooster/releases/tag/EN-FSTS)
+ * [First version](https://github.com/KamiHateOmg/TwitchBooster/releases/tag/EN-FSTS) (soon)
   
   
- * [Second version](https://github.com/KamiHateOmg/TwitchBooster/releases/tag/EN-SCDS)
+ * [Second version](https://github.com/KamiHateOmg/TwitchBooster/releases/tag/EN-SCDS) (soon)
 
 </details>
 
