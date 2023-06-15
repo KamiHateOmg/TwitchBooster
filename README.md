@@ -80,6 +80,8 @@ Features
     <img src=https://i.imgur.com/mmwfCwY.png>
 
 > 9. Spam the leds on the keyboards (The caps lock, the scroll lock and the nums lock.)
+	
+> 10. Change wallpaper
     
 > **Note**
 > : I am adding more don't worry !
