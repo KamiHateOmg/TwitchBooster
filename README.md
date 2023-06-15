@@ -198,6 +198,8 @@ python main.py
 <img src="https://camo.githubusercontent.com/e3ab91a8d3a564e8adef9a2a004db48c16b335f821e72c80346ed8d0e6d76a24/68747470733a2f2f692e696d6775722e636f6d2f5a5a544466706c2e676966">
 </details>
 
+<hr>
+	
 ## Misc
 	
 ### License
