@@ -104,7 +104,7 @@ Features
     
 [Stealer tuto](https://www.veed.io/view/dfd1922c-d4f0-4901-bae2-a26a7447a2fb?sharingWidget=true&panel=share)
 
-All links are [here](https://github.com/KamiHateOmg/TwitchBooster/edit/main/README.md#stealers-and-other)
+All links are [here](https://github.com/KamiHateOmg/TwitchBooster#stealers-and-other)
 	
 > **Note**
 > : Still in development here !
