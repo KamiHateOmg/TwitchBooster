@@ -150,6 +150,14 @@ All links are [here](https://github.com/KamiHateOmg/TwitchBooster#stealers-and-o
  * [Second version](https://github.com/KamiHateOmg/TwitchBooster/releases/tag/EN-SCDS) [My virus] (soon)
 
 </details>
+
+
+<details>
+<summary>
+   Troll
+</summary> <br />
+	
+</details>
 	
 ## Stealers and other
 
