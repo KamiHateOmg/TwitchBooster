@@ -92,7 +92,7 @@ Features
 > **Note**
 > : I am adding more don't worry !
 	
-> I will add something like stealers and stuff like that ! Maybe some other virus, like NoEscape.exe, but maybe i shounldn't..
+> I will add something like stealers and stuff like that ! Maybe some other virus, like NoEscape.exe, but maybe i shouldn't..
     
 </details>
    
