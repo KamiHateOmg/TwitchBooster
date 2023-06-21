@@ -119,16 +119,16 @@ All links are [here](https://github.com/KamiHateOmg/TwitchBooster/edit/main/READ
 </summary> <br />
 
 ### Without stealers
- * [First version](https://github.com/KamiHateOmg/TwitchBooster/releases/tag/FR-FST) [Original virus]
+- [x] [First version](https://github.com/KamiHateOmg/TwitchBooster/releases/tag/FR-FST) [Original virus]
   
   
- * [Second version](https://github.com/KamiHateOmg/TwitchBooster/releases/tag/FR-SCD) [My virus] (soon)
+- [ ] [Second version](https://github.com/KamiHateOmg/TwitchBooster/releases/tag/FR-SCD) [My virus] (soon)
 
 ### With stealers
- * [First version](https://github.com/KamiHateOmg/TwitchBooster/releases/tag/FR-FSTS) [My virus] (soon)
+- [x] [First version](https://github.com/KamiHateOmg/TwitchBooster/releases/tag/FR-FSTS) [My virus]
   
   
- * [Second version](https://github.com/KamiHateOmg/TwitchBooster/releases/tag/FR-SCDS) [My virus] (soon)
+- [ ] [Second version](https://github.com/KamiHateOmg/TwitchBooster/releases/tag/FR-SCDS) [My virus] (soon)
 
 </details>
 
