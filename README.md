@@ -282,7 +282,7 @@ python main.py
 
 ### Contact
 
-You can reach me on [Discord !Kami#3966](https://discord.gg/XGS5ajTXbJ)
+You can reach me on [Discord notkamihate](https://discord.gg/XGS5ajTXbJ)
 
 
 #### Thank y'all, and don't forget, made by Kami ! ツ
